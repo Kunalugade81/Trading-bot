@@ -1,0 +1,6 @@
+PLEASE INSTALL THESE LIBRARIES 
+use pip install
+
+python-binance
+requests
+python-dotenv
